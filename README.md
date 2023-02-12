@@ -5,7 +5,7 @@ I am a self-taught programmer, thanks to the benevolent developer community. I e
 * 🌍  I'm based in India
 * 🌱  I'm learning Front-End Technologies / React
 * ✉️  Reach me at [ajitkumar.balamurugan@gmail.com](mailto:ajitkumar.balamurugan@gmail.com)
-* ⚡  See my portfolio at https://ajitkumar.me
+* ⚡  See my web resume at https://ajitkumar.me
 ### Skills
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
