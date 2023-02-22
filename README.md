@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught programmer, thanks to the benevolent developer community. I eventually discovered a passion for backend development. I find logic building and analysis exciting and that's what drives my interest for the backend
+I am a programmer with a passion for backend development. I find logic building and analysis exciting and that's what drives my interest for the backend
 
 * 🌍  I'm based in India
 * 🌱  I'm learning Front-End Technologies / React
